@@ -9,15 +9,15 @@ This is a convinient wrapper around https://github.com/Valve/fingerprintjs2 to u
 
   /* [..] */
 
-  // inside your component
+  const myComponent = () => {
+    const fingerprint = useFingerprint();
 
-  const fingerprint = useFingerprint();
-
-  return (
-    <div>
-      Your fingerprint is {fingerprint}
-    </div>
-  )
+    return (
+      <div>
+        Your fingerprint is {fingerprint}
+      </div>
+    );
+  }
 ```
 
 ## caveats
