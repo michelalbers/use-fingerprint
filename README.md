@@ -1,6 +1,6 @@
 # useFingerprint
 
-This is a convinient wrapper around https://github.com/Valve/fingerprintjs2 to use in react apps.
+This is a convenient wrapper around https://github.com/Valve/fingerprintjs2 to use in react apps.
 
 ## usage
 
