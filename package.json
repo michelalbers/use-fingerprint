@@ -2,7 +2,11 @@
   "name": "use-fingerprint",
   "version": "1.0.0",
   "main": "lib/useFingerprint.js",
-  "license": "MIT",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michelalbers/use-fingerprint"
+  },
   "scripts": {
     "build": "rimraf lib && tsc -p .",
     "test": "jest"
