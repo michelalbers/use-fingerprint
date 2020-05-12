@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useFingerprint hook should return null and not crash if window is undefined 1`] = `null`;
