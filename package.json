@@ -1,6 +1,6 @@
 {
   "name": "use-fingerprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/useFingerprint.js",
   "license": "WTFPL",
   "repository": {
