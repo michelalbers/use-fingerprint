@@ -1,5 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`useFingerprint hook should allow to pass options 1`] = `"14b8b56003cd9b5a48eaa8cbc909d853"`;
+
 exports[`useFingerprint hook should fallback to setTimeout if requestIdleCallback is not available 1`] = `"14b8b56003cd9b5a48eaa8cbc909d853"`;
 
 exports[`useFingerprint hook should use requestIdleCallback when available 1`] = `"14b8b56003cd9b5a48eaa8cbc909d853"`;
